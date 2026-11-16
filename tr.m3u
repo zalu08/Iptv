@@ -1,66 +1,66 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
 
-#EXTINF:-1 tvg-chno="21" tvg-id="TRT1.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" tvg-name="TRT1" group-title="GenelEglence",TRT1
+#EXTINF:-1 tvg-chno="21" tvg-id="TRT1.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" tvg-name="TRT1" group-title="Genel Eğlence",TRT1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-id="KanalD.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0937065579965eb8f42a_op_0_XL.webp" tvg-name="KANAL D" group-title="GenelEglence",KANAL D
+#EXTINF:-1 tvg-chno="22" tvg-id="KanalD.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/87/0937065579965eb8f42a_op_0_XL.webp" tvg-name="KANAL D" group-title="Genel Eğlence",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
-#EXTINF:-1 tvg-chno="23" tvg-id="StarTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/64/1003520560175eb8f42a_op_0_XL.webp" tvg-name="STAR TV" group-title="GenelEglence",STAR TV
+#EXTINF:-1 tvg-chno="23" tvg-id="StarTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/64/1003520560175eb8f42a_op_0_XL.webp" tvg-name="STAR TV" group-title="Genel Eğlence",STAR TV
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 
-#EXTINF:-1 tvg-chno="24" tvg-id="ATV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" tvg-name="ATV" group-title="GenelEglence",ATV
+#EXTINF:-1 tvg-chno="24" tvg-id="ATV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" tvg-name="ATV" group-title="Genel Eğlence",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-id="ShowTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/96/0948464043915eb9542c_op_0_XL.webp" tvg-name="SHOW TV" group-title="GenelEglence",SHOW TV
+#EXTINF:-1 tvg-chno="25" tvg-id="ShowTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/96/0948464043915eb9542c_op_0_XL.webp" tvg-name="SHOW TV" group-title="Genel Eğlence",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
-#EXTINF:-1 tvg-chno="26" tvg-id="NOWTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp" tvg-name="NOW" group-title="GenelEglence",NOW
+#EXTINF:-1 tvg-chno="26" tvg-id="NOWTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/82/0947057422345eb7f426_op_0_XL.webp" tvg-name="NOW" group-title="Genel Eğlence",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-id="TV8.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/98/1026575965175eb78424_op_0_XL.webp" tvg-name="TV8" group-title="GenelEglence",TV8
+#EXTINF:-1 tvg-chno="27" tvg-id="TV8.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/98/1026575965175eb78424_op_0_XL.webp" tvg-name="TV8" group-title="Genel Eğlence",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:-1 tvg-chno="28" tvg-id="360.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/0909261639285eb88428_op_0_XL.webp" tvg-name="360" group-title="GenelEglence",360
+#EXTINF:-1 tvg-chno="28" tvg-id="360.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/0909261639285eb88428_op_0_XL.webp" tvg-name="360" group-title="Genel Eğlence",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-id="A2.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/1/0914264009815eb8f42a_op_0_XL.webp" tvg-name="A2" group-title="GenelEglence",A2
+#EXTINF:-1 tvg-chno="29" tvg-id="A2.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/1/0914264009815eb8f42a_op_0_XL.webp" tvg-name="A2" group-title="Genel Eğlence",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-id="TLC.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/19/1012439745095eb78424_op_0_XL.webp" tvg-name="TLC" group-title="GenelEglence",TLC
+#EXTINF:-1 tvg-chno="30" tvg-id="TLC.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/19/1012439745095eb78424_op_0_XL.webp" tvg-name="TLC" group-title="Genel Eğlence",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 
-#EXTINF:-1 tvg-chno="31" tvg-id="CNBCe.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202603/20260322/86/2101131875925eb7f426_op_0_XL.webp" tvg-name="CNBC-E" group-title="GenelEglence",CNBC-E
+#EXTINF:-1 tvg-chno="31" tvg-id="CNBCe.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202603/20260322/86/2101131875925eb7f426_op_0_XL.webp" tvg-name="CNBC-E" group-title="Genel Eğlence",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-id="Teve2.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202512/20251231/11/2216507637295eb9b42e_op_0_XL.png" tvg-name="TV2" group-title="GenelEglence",TV2
+#EXTINF:-1 tvg-chno="32" tvg-id="Teve2.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202512/20251231/11/2216507637295eb9b42e_op_0_XL.png" tvg-name="TV2" group-title="Genel Eğlence",TV2
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3
 
-#EXTINF:-1 tvg-chno="34" tvg-id="KANAL7.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/7/2112241317575eb7f426_op_0_XL.webp" tvg-name="KANAL 7" group-title="GenelEglence",KANAL 7
+#EXTINF:-1 tvg-chno="34" tvg-id="KANAL7.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/7/2112241317575eb7f426_op_0_XL.webp" tvg-name="KANAL 7" group-title="Genel Eğlence",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="BEYAZTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/53/2113355458665eb9b42e_op_0_XL.webp" tvg-name="BEYAZ TV" group-title="GenelEglence",BEYAZ TV
+#EXTINF:-1 tvg-chno="36" tvg-id="BEYAZTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/53/2113355458665eb9b42e_op_0_XL.webp" tvg-name="BEYAZ TV" group-title="Genel Eğlence",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-id="FlashHaberTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202609/20260917/1/0757431662835eb78424_op_0_XL.webp" tvg-name="FLASH HABER" group-title="GenelEglence",FLASH HABER
+#EXTINF:-1 tvg-chno="38" tvg-id="FlashHaberTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202609/20260917/1/0757431662835eb78424_op_0_XL.webp" tvg-name="FLASH HABER" group-title="Genel Eğlence",FLASH HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-id="DMAX.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/14/0929073243795eb9542c_op_0_XL.webp" tvg-name="DMAX" group-title="GenelEglence",DMAX
+#EXTINF:-1 tvg-chno="39" tvg-id="DMAX.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/14/0929073243795eb9542c_op_0_XL.webp" tvg-name="DMAX" group-title="Genel Eğlence",DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 
-#EXTINF:-1 tvg-chno="41" tvg-id="TV8,5.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1027323438155eb9b42e_op_0_XL.webp" tvg-name="TV8.5" group-title="GenelEglence",TV8.5
+#EXTINF:-1 tvg-chno="41" tvg-id="TV8,5.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1027323438155eb9b42e_op_0_XL.webp" tvg-name="TV8.5" group-title="Genel Eğlence",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b41009801e
 
-#EXTINF:-1 tvg-chno="43" tvg-id="VAVTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/38/1030132575195eb78424_op_0_XL.webp" tvg-name="VAV TV" group-title="Yasam",VAV TV
+#EXTINF:-1 tvg-chno="43" tvg-id="VAVTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/38/1030132575195eb78424_op_0_XL.webp" tvg-name="VAV TV" group-title="Yaşam",VAV TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-id="TRT2.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/49/1013374195105eb78424_op_0_XL.webp" tvg-name="TRT 2" group-title="Yasam",TRT 2
+#EXTINF:-1 tvg-chno="44" tvg-id="TRT2.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/49/1013374195105eb78424_op_0_XL.webp" tvg-name="TRT 2" group-title="Yaşam",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="TV4.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/37/2118109050615eb9542c_op_0_XL.webp" tvg-name="TV 4" group-title="GenelEglence",TV 4
+#EXTINF:-1 tvg-chno="45" tvg-id="TV4.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250514/37/2118109050615eb9542c_op_0_XL.webp" tvg-name="TV 4" group-title="Genel Eğlence",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-id="ASTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202509/20250902/88/0930124769585eb7f426_op_0_XL.webp" tvg-name="AS TV" group-title="GenelEglence",AS TV
+#EXTINF:-1 tvg-chno="46" tvg-id="ASTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202509/20250902/88/0930124769585eb7f426_op_0_XL.webp" tvg-name="AS TV" group-title="Genel Eğlence",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="50" tvg-id="NTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp" tvg-name="NTV" group-title="Haber",NTV
@@ -114,70 +114,70 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="TRTBelgesel.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/80/0911523523045eb78424_op_0_XL.webp" tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-chno="131" tvg-id="TRTÇocuk.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/92/1018103992555eb8f42a_op_0_XL.webp" tvg-name="TRT ÇOCUK" group-title="Cocuk",TRT ÇOCUK
+#EXTINF:-1 tvg-chno="131" tvg-id="TRTÇocuk.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/92/1018103992555eb8f42a_op_0_XL.webp" tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="132" tvg-id="MİNİKA.ÇOCUK.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/81/0940064012305eb7f426_op_0_XL.webp" tvg-name="MİNİKA ÇOCUK" group-title="Cocuk",MİNİKA ÇOCUK
+#EXTINF:-1 tvg-chno="132" tvg-id="MİNİKA.ÇOCUK.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/81/0940064012305eb7f426_op_0_XL.webp" tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 
-#EXTINF:-1 tvg-chno="133" tvg-id="MinikaGO.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/44/0939270193905eb9b42e_op_0_XL.webp" tvg-name="MİNİKA GO" group-title="Cocuk",MİNİKA GO
+#EXTINF:-1 tvg-chno="133" tvg-id="MinikaGO.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/44/0939270193905eb9b42e_op_0_XL.webp" tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 
-#EXTINF:-1 tvg-chno="134" tvg-id="SpacetoonTurkey.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/18/1001382772445eb7f426_op_0_XL.webp" tvg-name="SPACETOON" group-title="Cocuk",SPACETOON
+#EXTINF:-1 tvg-chno="134" tvg-id="SpacetoonTurkey.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/18/1001382772445eb7f426_op_0_XL.webp" tvg-name="SPACETOON" group-title="Çocuk",SPACETOON
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 
-#EXTINF:-1 tvg-chno="135" tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/88/1017245920655eb88428_op_0_XL.webp" tvg-name="TRT DIYANET COCUK" group-title="Cocuk",TRT DIYANET COCUK
+#EXTINF:-1 tvg-chno="135" tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/88/1017245920655eb88428_op_0_XL.webp" tvg-name="TRT DIYANET COCUK" group-title="Çocuk",TRT DIYANET COCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="136" tvg-id="TRTGenc.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202601/20260115/35/1205459746305eb9b42e_op_0_XL.png" tvg-name="TRT GENÇ" group-title="Cocuk",TRT GENÇ
+#EXTINF:-1 tvg-chno="136" tvg-id="TRTGenc.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202601/20260115/35/1205459746305eb9b42e_op_0_XL.png" tvg-name="TRT GENÇ" group-title="Çocuk",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-chno="141" tvg-id="TRTWorld.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/77/1024521270725eb88428_op_0_XL.webp" tvg-name="TRT World" group-title="Haber",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="170" tvg-id="Number1TV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/11/2128474286475eb8f42a_op_0_XL.webp" tvg-name="NUMBER1 TV" group-title="Muzik",NUMBER1 TV
+#EXTINF:-1 tvg-chno="170" tvg-id="Number1TV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/11/2128474286475eb8f42a_op_0_XL.webp" tvg-name="NUMBER1 TV" group-title="Müzik",NUMBER1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="171" tvg-id="POWER.TV.HD.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/30/2131106038015eb9542c_op_0_XL.webp" tvg-name="POWER TV" group-title="Muzik",POWER TV
+#EXTINF:-1 tvg-chno="171" tvg-id="POWER.TV.HD.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/30/2131106038015eb9542c_op_0_XL.webp" tvg-name="POWER TV" group-title="Müzik",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="172" tvg-id="DreamTurk.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/43/1057170303285eb7f426_op_0_XL.webp" tvg-name="DREAM TÜRK" group-title="Muzik",DREAM TÜRK
+#EXTINF:-1 tvg-chno="172" tvg-id="DreamTurk.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/43/1057170303285eb7f426_op_0_XL.webp" tvg-name="DREAM TÜRK" group-title="Müzik",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="174" tvg-id="PowerTurkTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/95/2130277456505eb8f42a_op_0_XL.webp" tvg-name="POWER TURK" group-title="Muzik",POWER TURK
+#EXTINF:-1 tvg-chno="174" tvg-id="PowerTurkTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/95/2130277456505eb8f42a_op_0_XL.webp" tvg-name="POWER TURK" group-title="Müzik",POWER TURK
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="175" tvg-id="TRTMüzik.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/97/1021361684625eb9542c_op_0_XL.webp" tvg-name="TRT MÜZİK" group-title="Muzik",TRT MÜZİK
+#EXTINF:-1 tvg-chno="175" tvg-id="TRTMüzik.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/97/1021361684625eb9542c_op_0_XL.webp" tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="181" tvg-id="Tivi6.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/6/1012063131215eb7f426_op_0_XL.webp" tvg-name="TİVİ6" group-title="GenelEglence",TİVİ6
+#EXTINF:-1 tvg-chno="181" tvg-id="Tivi6.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/6/1012063131215eb7f426_op_0_XL.webp" tvg-name="TİVİ6" group-title="Genel Eğlence",TİVİ6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="184" tvg-id="MeltemTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/12/2126585812715eb7f426_op_0_XL.webp" tvg-name="MELTEM TV" group-title="GenelEglence",MELTEM TV
+#EXTINF:-1 tvg-chno="184" tvg-id="MeltemTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/12/2126585812715eb7f426_op_0_XL.webp" tvg-name="MELTEM TV" group-title="Genel Eğlence",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="204" tvg-id="TRTTURK.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/4/1024005375155eb78424_op_0_XL.webp" tvg-name="TRT TÜRK" group-title="Yasam",TRT TÜRK
+#EXTINF:-1 tvg-chno="204" tvg-id="TRTTURK.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/4/1024005375155eb78424_op_0_XL.webp" tvg-name="TRT TÜRK" group-title="Yaşam",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="205" tvg-id="TRTArabi.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/75/1019317040685eb88428_op_0_XL.webp" tvg-name="TRT ARABI" group-title="Yasam",TRT ARABI
+#EXTINF:-1 tvg-chno="205" tvg-id="TRTArabi.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/75/1019317040685eb88428_op_0_XL.webp" tvg-name="TRT ARABI" group-title="Yaşam",TRT ARABI
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-id="TRTAVAZ.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/94/1016079562535eb8f42a_op_0_XL.webp" tvg-name="TRT AVAZ" group-title="Yasam",TRT AVAZ
+#EXTINF:-1 tvg-chno="206" tvg-id="TRTAVAZ.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/94/1016079562535eb8f42a_op_0_XL.webp" tvg-name="TRT AVAZ" group-title="Yaşam",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="207" tvg-id="TRTKurdi.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/13/1020562870695eb88428_op_0_XL.webp" tvg-name="TRT KURDİ" group-title="Yasam",TRT KURDİ
+#EXTINF:-1 tvg-chno="207" tvg-id="TRTKurdi.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/13/1020562870695eb88428_op_0_XL.webp" tvg-name="TRT KURDİ" group-title="Yaşam",TRT KURDİ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-chno="208" tvg-id="DiyanetTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/70/0927578653785eb9542c_op_0_XL.webp" tvg-name="DİYANET TV" group-title="Yasam",DİYANET TV
+#EXTINF:-1 tvg-chno="208" tvg-id="DiyanetTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/70/0927578653785eb9542c_op_0_XL.webp" tvg-name="DİYANET TV" group-title="Yaşam",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-id="SemerkandTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/95/2131471279245eb9b42e_op_0_XL.webp" tvg-name="SEMERKAND" group-title="Yasam",SEMERKAND
+#EXTINF:-1 tvg-chno="209" tvg-id="SemerkandTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/95/2131471279245eb9b42e_op_0_XL.webp" tvg-name="SEMERKAND" group-title="Yaşam",SEMERKAND
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="216" tvg-id="CiftciTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/34/1051257598535eb78424_op_0_XL.webp" tvg-name="ÇİFTÇİ TV" group-title="Yasam",ÇİFTÇİ TV
+#EXTINF:-1 tvg-chno="216" tvg-id="CiftciTV.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202505/20250528/34/1051257598535eb78424_op_0_XL.webp" tvg-name="ÇİFTÇİ TV" group-title="Yaşam",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="221" tvg-id="TRTEBA.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/1018448660675eb88428_op_0_XL.webp" tvg-name="TRT EBA" group-title="Yasam",TRT EBA
+#EXTINF:-1 tvg-chno="221" tvg-id="TRTEBA.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/1018448660675eb88428_op_0_XL.webp" tvg-name="TRT EBA" group-title="Yaşam",TRT EBA
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-chno="251" tvg-id="Kanal23.tr" tvg-logo="https://izmaottvsc10.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250602/45/2121305491855eb9542c_op_0_XL.webp" tvg-name="KANAL 23" group-title="Yerel",KANAL 23
